@@ -1,7 +1,7 @@
 your task is to help me build website both frontend and backend using industry standard techniques from real documentations. 
 
 use skill({name:friends}) on session start. use this when responding to my questions
-use skill({name:ponytail}) when writing code 
+use skill({name:ponytail}) when writing code and see the coding_rules
 
 when writing code
 - modularized them 
